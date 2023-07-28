@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hero-creator/static/css/main.4bc0a5e9.chunk.css",
+    "main.js": "/hero-creator/static/js/main.f6fdc7f9.chunk.js",
+    "main.js.map": "/hero-creator/static/js/main.f6fdc7f9.chunk.js.map",
+    "runtime-main.js": "/hero-creator/static/js/runtime-main.79a37a28.js",
+    "runtime-main.js.map": "/hero-creator/static/js/runtime-main.79a37a28.js.map",
+    "static/css/2.c62e3214.chunk.css": "/hero-creator/static/css/2.c62e3214.chunk.css",
+    "static/js/2.862e3fa8.chunk.js": "/hero-creator/static/js/2.862e3fa8.chunk.js",
+    "static/js/2.862e3fa8.chunk.js.map": "/hero-creator/static/js/2.862e3fa8.chunk.js.map",
+    "index.html": "/hero-creator/index.html",
+    "static/css/2.c62e3214.chunk.css.map": "/hero-creator/static/css/2.c62e3214.chunk.css.map",
+    "static/css/main.4bc0a5e9.chunk.css.map": "/hero-creator/static/css/main.4bc0a5e9.chunk.css.map",
+    "static/js/2.862e3fa8.chunk.js.LICENSE.txt": "/hero-creator/static/js/2.862e3fa8.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/hero-creator/static/media/hero_bg.0540b794.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79a37a28.js",
+    "static/css/2.c62e3214.chunk.css",
+    "static/js/2.862e3fa8.chunk.js",
+    "static/css/main.4bc0a5e9.chunk.css",
+    "static/js/main.f6fdc7f9.chunk.js"
+  ]
+}
